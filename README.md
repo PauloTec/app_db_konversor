@@ -1,11 +1,8 @@
 # dB Konversor
 
 <p align="center">
-  <img src="assets/images/logo.png" width="150" alt="dB Konversor Logo">
-</p>
-
-<p align="center">
-Conversor inteligente de unidades em Decibel (dB) para estudantes, engenheiros, técnicos e profissionais das áreas de Telecomunicações, Electrónica, Redes, Rádio Frequência e Energia.
+	Conversor inteligente de unidades em Decibel (dB) para estudantes, engenheiros, técnicos 
+	e profissionais das áreas de Telecomunicações, Electrónica, Redes, Rádio Frequência e Energia.
 </p>
 
 ---
@@ -173,7 +170,7 @@ Também pode abrir uma **Issue** para reportar bugs ou sugerir novas funcionalid
 
 # Licença
 
-Este projeto encontra-se sob licença MIT.
+Este projeto encontra-se sob licença da Kundiama, Tecnologia e Inovação.
 
 Consulte o ficheiro **LICENSE** para mais informações.
 
@@ -181,7 +178,7 @@ Consulte o ficheiro **LICENSE** para mais informações.
 
 # Desenvolvido por
 
-## Kundiama Tecnologia e Inovação
+## Kundiama, Tecnologia e Inovação
 
 Transformando conhecimento em tecnologia.
 
@@ -193,7 +190,7 @@ Transformando conhecimento em tecnologia.
 
 Engenheiro de Telecomunicações
 
-Professor
+Professor, Coordenador do Curso de Informática
 
 Desenvolvedor Flutter
 
@@ -232,5 +229,5 @@ Toda contribuição ajuda a tornar o dB Konversor cada vez melhor.
 ---
 
 <p align="center">
-Feito com ❤️ em Angola 🇦🇴
+	Feito com ❤️ em Angola 🇦🇴
 </p>
